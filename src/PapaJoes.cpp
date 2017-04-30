@@ -10,6 +10,12 @@
 using namespace std;
 
 int main() {
-	cout << "This Worked?" << endl; // prints !!!Hello Team!!!
+//	List<Product> catalog;
+	cout << "This Work?" << endl; // prints !!!Hello Team!!!
 	return 0;
+}
+
+void storeMaster() {
+
+
 }
