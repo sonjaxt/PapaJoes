@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
 //	List<Product> catalog;
-	cout << "This Work?" << endl; // prints !!!Hello Team!!!
+	cout << "This thing Works!!!" << endl; // prints !!!Hello Team!!!
 	return 0;
 }
 
