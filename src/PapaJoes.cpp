@@ -10,6 +10,11 @@
 using namespace std;
 
 int main() {
-	cout << "Hello welcome to PapaJoe's!!!" << endl; // prints !!!Hello Team!!!
+	cout << "Hello This is the final version of changes." << endl;
 	return 0;
+}
+
+void storeMaster() {
+
+
 }
